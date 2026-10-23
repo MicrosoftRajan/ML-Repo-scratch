@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Rahul",
+    "rating": 5,
+    "feedback": "Excellent service",
+    "age": 24
+  },
+  {
+    "name": "Priya",
+    "rating": "four ",
+    "feedback": "Good product",
+    "age": 28
+  },
+  {
+    "name": "Amit",
+    "rating": null,
+    "feedback": "Nice store",
+    "age": 32
+  },
+  {
+    "name": "Rahul",
+    "rating": "five",
+    "feedback": "Excellent service",
+    "age": 24
+  },
+  {
+    "name": "Neha",
+    "rating": 10,
+    "feedback": "Very good",
+    "age": 
+  },
+  
+  {
+    "name": "Karan",
+    "rating": 3,
+    "feedback": null,
+    "age": null
+  },
+  {
+    "name": "Simran",
+    "rating": 4,
+    "feedback": "good product",
+    "age": 26
+  },
+  {
+    "name": "Arjun",
+    "rating": 2,
+    "feedback": "Poor quality",
+    "age": -5
+  },
+  {
+    "name": "Anjali",
+    "rating": 5,
+    "feedback": "Excellent",
+    "age": 150
+  },
+  {
+    "name": "Vikram",
+    "rating": "four",
+    "feedback": "Average",
+    "age": 30
+  }
+]
