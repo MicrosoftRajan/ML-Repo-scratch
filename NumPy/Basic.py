@@ -21,3 +21,5 @@ for mark in marks:
     if mark > highest:
         highest = mark
     print("Highest Marks: ", highest)
+
+
